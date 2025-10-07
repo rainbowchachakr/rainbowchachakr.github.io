@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo1
+title: Rainbow Chacha
 subtitle: ''
 description: ''
 keywords:
@@ -96,7 +96,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+# theme: landscape
+theme: magnetic
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -104,3 +105,6 @@ deploy:
   type: git
   repo: https://rainbowchachakr@github.com/rainbowchachakr/rainbowchachakr.github.io.git
   branch: main
+
+# Google Analytics
+google_analytics: G-98SMGW6VGR
